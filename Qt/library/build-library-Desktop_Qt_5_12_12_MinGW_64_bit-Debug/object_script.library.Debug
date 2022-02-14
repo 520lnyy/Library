@@ -1,0 +1,10 @@
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/select.o
+debug/splashscreen.o
+debug/qrc_res.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_select.o
+debug/moc_splashscreen.o
